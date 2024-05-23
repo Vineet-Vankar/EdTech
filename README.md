@@ -10,5 +10,7 @@ This project is created to provide an eduction portal which can help you to find
 - Better Understanding
 - Easy Solution
 
+## Project 
+- > EdTech - https://vineet-vankar.github.io/EdTech/index.html
 
 ## :handshake: Thank You
